@@ -1,0 +1,3 @@
+[submodule "mate"]
+	path = mate
+	url = git@bitbucket.org:oppian/mate.git
